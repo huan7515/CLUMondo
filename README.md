@@ -1,2 +1,30 @@
 # CLUMondo
-The data repository for the CLUMondo modeling of land system change and ecosystem services in Owyhee County, Idaho, USA
+The data repository for the CLUMondo and InVEST modeling of land system change and ecosystem services in Owyhee County, Idaho, USA
+- CLUMondo data
+  - Historical land use in 2001, 2011, 2019
+  - Scenario land use
+    - Business-as-usual (BAU),
+    - Destroying Resources in Owyhee (DRO)
+    - Ecological Recreation (EC)
+    - Managed Recreation (MR)
+  - Stakeholder policy boundaries
+  - Independent variables used in the suitability analysis
+    - Slope
+    - Precipitation
+    - Population density
+    - Market accessibility
+    - Soil depth
+    - Available water capacity
+    - Distance to urban
+    - Distance to river
+  - CLUMondo running file
+- InVEST data
+  - Water yield
+    - Annual precipitation
+    - Available water capacity
+    - Reference evapotranspiration
+  - Sediment export
+    - Rainfall erosivity
+    - Soil Erodibility
+  - Habitat quality
+  - InVEST biophyiscal parameters
